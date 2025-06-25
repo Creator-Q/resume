@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Creator Q | Resume</title>
+  <title>Rajnish Singh | Resume</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
   <style>
     * {
@@ -136,7 +136,7 @@
 <body>
   <header>
     <img src="https://cdn-icons-png.flaticon.com/512/147/147144.png" alt="Profile Picture">
-    <h1>Creator Q</h1>
+    <h1>Rajnish Singh</h1>
     <p>Motivated Web Developer & Future Tech Creator</p>
   </header>
 
@@ -154,6 +154,7 @@
       <li>JavaScript</li>
       <li>Python</li>
       <li>C++</li>
+      <li>Rust</li>
       <li>React.js (Basics)</li>
       <li>Git & GitHub</li>
     </ul>
@@ -176,13 +177,13 @@
 
   <section class="education">
     <h2>Education</h2>
-    <p>B.Tech in Computer Science Engineering<br>XYZ University, 2022 - 2026</p>
+    <p>B.Tech in Computer Science Engineering<br>Gautam Buddh University, 2024 - 2028</p>
     <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" alt="Education Clipart" class="clipart">
   </section>
 
   <section class="experience">
     <h2>Experience</h2>
-    <p>Intern – Web Development (Remote)<br>ABC Startups – May 2024 to Jul 2024</p>
+    <p>Intern – Web Development (Remote)<br>Prepgrad Startup – sep 2024 to oct 2024</p>
   </section>
 
   <section class="contact">
